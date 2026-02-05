@@ -9,7 +9,7 @@ startScreen();
 function startScreen() {
   screen(`
     <div class="card">
-      <h1>Hey you 💖</h1>
+      <h1>Hey chippuss 💖</h1>
       <input id="name" placeholder="Your name ❤️"/>
       <button onclick="enter()">Enter</button>
     </div>
